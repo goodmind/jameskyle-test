@@ -1,5 +1,3 @@
 # jameskyle-test
 
 ## yes
-
-## no
