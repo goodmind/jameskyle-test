@@ -1,1 +1,1 @@
-# Effector
+# Переходите на TypeScript
